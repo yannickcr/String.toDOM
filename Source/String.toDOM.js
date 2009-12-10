@@ -9,7 +9,7 @@ license: MIT-style license.
 authors: Yannick Croissant
 
 requires:
-- core
+- core:1.2.4
 
 provides: [String.toDOM]
 
